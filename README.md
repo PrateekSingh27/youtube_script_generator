@@ -64,7 +64,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```env
-GROQ_API_KEY=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
+GROQ_API_KEY=
 ```
 
 🧪 Don’t have a key? Get one at: [https://console.groq.com](https://console.groq.com)
